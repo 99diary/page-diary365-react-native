@@ -52,7 +52,7 @@ Android / IOS
 
 本软件为免费软件，你不必为此付出费用，当然，如果你想支持我，可以向我捐赠，你的支持将是我更新的强大动力。
 
-![paypal](https://img.99diary.com/pay/src/20170717140000/1.png)
+![paypal](https://img.99diary.com/pay/src/20170717140000/2.png)
 
 ##### 开发工具
 
