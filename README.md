@@ -8,6 +8,7 @@ A mobile app for Android/IOS
 
 ###### bata v 0.1
 发布时间：2017-07-13
+
 下载地址：[diary365-release_v0.1_20170713.apk](https://github.com/99diary/diary365-react-native/releases/download/untagged-e1d1246bf06fb3fd0a1f/diary365-release_v0.1_20170713.apk)
 
 ```log
@@ -18,10 +19,14 @@ A mobile app for Android/IOS
 
 Android / IOS
 ```
-本项目兼容安卓和IOS，但是编译IOS版本的要求比较苛刻（需要MAC平台，申请个人开发证书，iphone调试环境），然后都没问题，才可以申请发布到apple store上。
-但是我本人目前开发条件有限，暂时不能为使用iphone的用户编译发布，请谅解。
+本项目兼容安卓和IOS，但是编译IOS版本的要求比较苛刻
+（需要MAC平台，申请个人开发证书，iphone调试环境），
+然后都没问题，才可以申请发布到apple store上。
+但是我本人目前开发条件有限，
+暂时不能为使用iphone的用户编译发布，请谅解。
 
-发布安卓版本理论上兼容安卓2.3环境，本项目将只测试 Android 6.0, Android 7.0，其它机型有问题，请入群反馈，或者在本项目中开issues。
+发布安卓版本理论上兼容安卓2.3环境，本项目将只测试 Android 6.0, Android 7.0，
+其它机型有问题，请入群反馈，或者在本项目中开issues。
 ```
 
 ##### 截图
