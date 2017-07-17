@@ -6,7 +6,7 @@ A mobile app for Android/IOS
 
 如果不能下载，请加入群查看群共享。
 
-###### bata v 0.1
+###### beta v 0.1
 发布时间：2017-07-13
 
 下载地址：[diary365-release_v0.1_20170713.apk](https://github.com/99diary/diary365-react-native/releases/download/untagged-e1d1246bf06fb3fd0a1f/diary365-release_v0.1_20170713.apk)
