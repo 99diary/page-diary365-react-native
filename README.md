@@ -1,14 +1,26 @@
-# diary365-react-native
+# diary365 for Android
 A mobile app for Android/IOS
 
 ##### 版本
 
+项目进展
+```log
+目前在开发登录界面中...
+```
 
 ```log
 bata v 0.1
 1. [首页列表] 首页列表，支持刷新;
 2. [日记详情] 点击列表查看日记;
 3. [分享] 复制日记内容
+```
+
+Android / IOS
+```
+本项目兼容安卓和IOS，但是编译IOS版本的要求比较苛刻（需要MAC平台，申请个人开发证书，iphone调试环境），然后都没问题，才可以申请发布到apple store上。
+但是我本人目前开发条件有限，暂时不能为使用iphone的用户编译发布，请谅解。
+
+发布安卓版本理论上兼容安卓2.3环境，本项目将只测试 Android 6.0, Android 7.0，其它机型有问题，请入群反馈，或者在本项目中开issues。
 ```
 
 ##### 截图
