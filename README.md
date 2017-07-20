@@ -6,6 +6,21 @@ A mobile app for Android/IOS
 
 如果不能下载，请加入群查看群共享。
 
+
+
+
+###### beta v 0.2
+发布时间：2017-07-20
+
+下载地址：[diary365-release_v0.2_20170720.apk](https://github.com/99diary/diary365-react-native/releases/download/0.2/diary365-release_v0.2_20170720.apk)
+
+```log
+1. [首页列表] 首页列表，支持下拉刷新;
+2. [日记详情] 点击列表查看日记;
+3. [分享] 复制日记内容
+```
+
+
 ###### beta v 0.1
 发布时间：2017-07-13
 
