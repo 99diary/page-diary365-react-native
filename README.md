@@ -12,7 +12,7 @@ A mobile app for Android/IOS
 下载地址：[diary365-release_v0.3_20170721.apk](https://github.com/99diary/diary365-react-native/releases/download/0.3/diary365-release_v0.3_20170721.apk)
 
 ```log
-1. [登录] 修复上一个版本冻结账号登录报错的情况, 修复自动登录bug问题;
+1. [登录] 修复上一个版本冻结账号登录报错的情况, 修复自动登录bug问题，自动登录仅记录非敏感cookie信息保存在本地;
 2. [写日记] 修复上一个版本当无日记本报错的情况，修复状态失效不会跳转到登录页面的情况，支持天气，为他人写日记；
 3. [UI] 全新UI
 ```
