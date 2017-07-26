@@ -9,6 +9,8 @@ A mobile app for Android/IOS
 
 [追梦人日记开源项目主页](https://app.99diary.com)
 
+[项目源代码](https://bitbucket.org/flyher/diary365-react-native/wiki/Home)
+
 ##### 开发工具
 
 Build By Visual Studio Code
