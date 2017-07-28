@@ -7,7 +7,7 @@ A mobile app for Android/IOS
 
 你可以到这里下载客户端：
 
-[追梦人日记开源项目主页](https://app.flyher.net)
+[追梦人日记开源项目主页](https://memory.99diary.com)
 
 [项目源代码](https://bitbucket.org/flyher/diary365-react-native/wiki/Home)
 
