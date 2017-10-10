@@ -3,6 +3,14 @@
   "data": {
     "logs": [
       {
+        "id": 7,
+        "updateTime": "2017-10-10",
+        "version": 0.0,
+        "level": 0,
+        "title": "问题反馈渠道",
+        "contents": "1. 发布站点: https://memory.99diary.com \n2.发布QQ群：320800566\n3.联系我：admin#99diary.com"
+      },
+      {
         "id": 6,
         "updateTime": "2017-08-30",
         "version": 0.6,
