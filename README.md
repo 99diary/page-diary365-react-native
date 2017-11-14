@@ -9,6 +9,12 @@ A mobile app for Android/IOS
 
 [追梦人日记开源项目主页](https://memory.99diary.com)
 
+关于具体实现细节，你可以阅读下面这篇我写的文章：
+
+[react-native开发安卓应用实战]( https://blog.99diary.com/2017/11/14/react-native开发安卓应用实战)
+
+如果你对该项目有兴趣，不如联系我，该项目依然需要更美的LOGO，同时你也可以参与到项目代码的编写中：
+
 [项目源代码](https://bitbucket.org/flyher/diary365-react-native/wiki/Home)
 
 ##### 截图
