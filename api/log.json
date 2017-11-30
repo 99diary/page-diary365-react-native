@@ -2,7 +2,14 @@
   "status": true,
   "data": {
     "logs": [
-
+      {
+        "id": 9,
+        "updateTime": "2017-11-30",
+        "version": "0.0",
+        "level": 0,
+        "title": "追梦人日记即将上架 Google Play",
+        "contents": "花了20刀注册了开发者，计划上架 Google Play商店，有条件的大陆用户，海外用户可以在 Google Play上更新该应用。当然，本站应用分发站点依然继续维护。"
+      },
       {
         "id": 8,
         "updateTime": "2017-10-23",
