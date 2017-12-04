@@ -10,7 +10,7 @@
         "key": 10,
         "title": "追梦人日记 V0.71 发布了",
         "contents":
-          "1. [更新日志]修正相同日志中key报错的bug \n2."
+          "1. [更新日志]修正相同日志中key报错的bug，修改导航模板 \n2."
       },
       {
         "id": 9,
@@ -45,7 +45,7 @@
       {
         "id": 6,
         "updateTime": "2017-08-30",
-        "version": 0.6,
+        "version": "0.6",
         "level": "7",
         "key": 6,
         "title": "追梦人日记 V0.6 发布了",
@@ -54,7 +54,7 @@
       {
         "id": 5,
         "updateTime": "2017-08-01",
-        "version": 0.51,
+        "version": "0.51",
         "level": "6",
         "key": 5,
         "title": "追梦人日记 V0.51 发布了",
@@ -64,7 +64,7 @@
       {
         "id": 4,
         "updateTime": "2017-07-28",
-        "version": 0.5,
+        "version": "0.5",
         "level": "5",
         "key": 4,
         "title": "追梦人日记 V0.5 发布了",
@@ -74,7 +74,7 @@
       {
         "id": 3,
         "updateTime": "2017-07-26",
-        "version": 0.4,
+        "version": "0.4",
         "level": "4",
         "key": 3,
         "title": "追梦人日记 V0.4 发布了",
@@ -84,7 +84,7 @@
       {
         "id": 2,
         "updateTime": "2017-07-21",
-        "version": 0.3,
+        "version": "0.3",
         "level": "3",
         "key": 2,
         "title": "追梦人日记 V0.3 发布了",
@@ -94,7 +94,7 @@
       {
         "id": 1,
         "updateTime": "2017-07-20",
-        "version": 0.2,
+        "version": "0.2",
         "level": "2",
         "key": 1,
         "title": "追梦人日记 V0.2 发布了",
@@ -104,7 +104,7 @@
       {
         "id": 0,
         "updateTime": "2017-07-13",
-        "version": 0.1,
+        "version": "0.1",
         "level": "1",
         "key": 0,
         "title": "追梦人日记 V0.1 发布了,这是一个开始",
