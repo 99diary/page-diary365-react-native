@@ -3,6 +3,16 @@
   "data": {
     "logs": [
       {
+        "id": 11,
+        "updateTime": "2017-12-12",
+        "version": "0.72",
+        "level": "10",
+        "key": 11,
+        "title": "双十二特别更新，为 追梦人日记 V0.72 加上logo",
+        "contents":
+          "1. [Logo]为APP加上logo，如果你有更好的logo，不妨联系我，还缺少一个登录页横幅banner \n2.[登录页]修正登录页背景图片在大屏幕高分屏手机上不完整显示的问题  #16"
+      },
+      {
         "id": 10,
         "updateTime": "2017-12-04",
         "version": "0.71",
