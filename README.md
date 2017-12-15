@@ -17,6 +17,12 @@ A mobile app for Android/IOS
 
 [项目源代码](https://bitbucket.org/flyher/diary365-react-native/wiki/Home)
 
+##### Issue
+
+很抱歉，本项目所有Issue将迁移到私有bug追踪系统便于备份和跟踪。
+
+2017-12-15
+
 ##### 截图
 
 本项目发布前已在Android 6.0 , Android 7.0测试通过。
