@@ -20,9 +20,9 @@ A mobile app for Android/IOS
 
 ##### 截图
 
-本项目发布前已在Android 6.0 , Android 7.0测试通过。
+本项目发布前已在Android 6.0, Android 7.0, Android 8.0 测试通过。
 
-![Screenshot_02@v0.7_20171108.png](https://img.99diary.com/project/src/diary365-react-native/Screenshot_02@v0.7_20171108.png)
+![Screenshot_01@v0.74_20180312.png](https://img.99diary.com/project/src/diary365-react-native/Screenshot_01@v0.74_20180312.png)
 
 
 ##### 开发工具
