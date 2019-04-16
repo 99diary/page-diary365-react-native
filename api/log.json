@@ -2,6 +2,16 @@
   "status": true,
   "data": {
     "logs": [
+	      {
+        "id": 18,
+        "updateTime": "2019-04-16",
+        "version": "0.0",
+        "level": "15",
+        "key": 18,
+        "title": "网站更新，全新改版",
+        "contents":
+          "网站早就已经更新，只是一直懒得上线。更友好的界面，更多安装包下载方式。"
+      },
       {
         "id": 17,
         "updateTime": "2018-05-23",
